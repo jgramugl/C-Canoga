@@ -1,1 +1,1 @@
-# C-Canoga
+# C++ Canoga
